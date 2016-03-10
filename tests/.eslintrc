@@ -1,0 +1,6 @@
+{
+  "extends": "qmmr/react",
+  "env": {
+    "mocha": true
+  }
+}
